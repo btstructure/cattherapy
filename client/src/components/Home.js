@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import Cat from "./Cat"
+import Cat from "../Cat"
 
 function Home(){
     const [cats, setCats] = useState([])
